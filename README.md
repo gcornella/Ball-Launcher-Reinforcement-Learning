@@ -31,3 +31,4 @@ This file does the following:
 - Plot the position of the centroid, and the width and height of the object
 
 ## Reinforcement Learning
+Finally, the entire Reinforcement Learning scripts and all the necessary explanations can be downloaded from the repo [robot_learning](https://github.com/stevedanomodolor/robot_learning) from my colleague [@stevedanomodolor] and I.
