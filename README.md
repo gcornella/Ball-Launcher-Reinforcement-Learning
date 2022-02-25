@@ -4,12 +4,14 @@ This project consists on designing, assembling and coding a ball tossing robot t
 ## Design
 Solidworks files can be obtained from the folder 'SolidWork parts'
 
-
 ## 3D Print
 The .stl documents can be found in the folder 'Print STL files'. I used the printers Zortrax M200 and Zmorph VX.
 
+![ASSEMBLY](images/ASSEMBLY.PNG)
+
 ## Assembly and Electronics
 Electronic scheme
+![ELECTRICAL_DIAGRAM](images/ELECTRIC_DIAGRAM.PNG)
 
 ## Communicatrion protocols
 - Python Server
